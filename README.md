@@ -1,6 +1,6 @@
 <div align="center">
   
-#  0xh7 |
+<h2 align="center">〔 About Me 〕</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=435&lines=Passionate+Developer;Code+Craftsman;Algorithm+Expert;Problem+Solver)](https://git.io/typing-svg)
 
