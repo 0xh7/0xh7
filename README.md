@@ -8,6 +8,8 @@
 
 </div>
 
+<div align="center">
+  
 ## 〔 About Me 〕
 
 ```python
@@ -24,6 +26,8 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
+
+</div>
 
 <div align="center">
   
@@ -51,9 +55,9 @@ me.say_hi()
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-##                                                   〔 Featured Digital Creations 〕
-
 <div align="center">
+
+## 〔 Featured Digital Creations 〕
 
 <a href="https://github.com/0xh7/evo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xh7&repo=evo&theme=tokyonight&hide_border=true" />
