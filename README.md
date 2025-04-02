@@ -51,7 +51,7 @@ me.say_hi()
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-##  〔 Featured Digital Creations 〕
+##                                                   〔 Featured Digital Creations 〕
 
 <div align="center">
 
