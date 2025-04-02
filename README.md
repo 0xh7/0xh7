@@ -16,7 +16,7 @@ class Developer:
         self.name = "0xh7"
         self.role = " Developer"
 
-        self.current_focus = "Building the future, one line of code at a time"
+     
         
     def say_hi(self):
         print("hi")
