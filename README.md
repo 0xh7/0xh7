@@ -13,17 +13,17 @@
 ## 〔 About Me 〕
 
 ```python
-class Developer:
-    def __init__(self):
+                                                                                                                              class Developer:
+                                                                  def __init__(self):
         self.name = "0xh7"
         self.role = " Developer"
 
      
         
-    def say_hi(self):
+                                                                      def say_hi(self):
         print("hi")
 
-me = Developer()
+             me = Developer()
 me.say_hi()
 ```
 
