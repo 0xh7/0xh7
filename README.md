@@ -13,9 +13,7 @@
 ## 〔 About Me 〕
 
 ```python
-class Developer: def __init__(self):
-self.name = "0xh7"
-        self.role = " Developer"
+class Developer: def __init__(self):self.name = "0xh7"self.role = " Developer"
 
      
         
