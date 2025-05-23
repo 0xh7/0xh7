@@ -1,85 +1,71 @@
-<div align="center">
-  
-<h2 align="center">〔 About Me 〕</h2>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=180&section=header&text=Welcome%20to%200xh7's%20World!&fontSize=38&fontAlignY=40&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=20&descAlign=60" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=435&lines=Passionate+Developer;Code+Craftsman;Algorithm+Expert;Problem+Solver)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+0xh7;Coding+with+passion+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%92%A1" />
+</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
-</div>
+## 👤 About Me
 
-<div align="center">
-  
-## 〔 About Me 〕
+- 🧑‍💻 **Name:** 0xh7  
+- 🏷️ **Role:** Developer 
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "0xh7"
-        self.role = "Developer"
+---
 
-    def say_hi(self):
-        print("hi")
+##  Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,lua,js,c,linux,git" />
+</p>
 
-me = Developer()
-me.say_hi()
+---
 
-```
+## GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xh7&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7&theme=radical&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7&layout=compact&theme=radical&hide_border=true" width="50%"/>
+</p>
 
-<div align="center">
-  
-## 〔 Tech Arsenal 〕
+---
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🏆 Featured Projects
 
-</div>
+<p align="center">
+  <a href="https://github.com/0xh7/evo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xh7&repo=evo&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/0xh7/codewarsChallenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xh7&repo=codewarsChallenge&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/0xh7/snake.0x">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xh7&repo=snake.0x&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-<div align="center">
-  
-## 〔 Matrix Stats 〕
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="streak stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=0xh7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="github stats">
+## 🌐 Connect With Me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="58%" alt="top langs">
+<p align="center">
+  <a href="https://discord.gg/EYnyr26hKY">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=0xh7&color=0c8cf0&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
 
-</div>
+---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-
-## 〔 Featured Digital Creations 〕
-
-<a href="https://github.com/0xh7/evo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xh7&repo=evo&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/0xh7/codewarsChallenge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xh7&repo=codewarsChallenge&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/0xh7/snake.0x">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xh7&repo=snake.0x&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-
-## 〔 Connect to My Network 〕
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EYnyr26hKY)
-![](https://komarev.com/ghpvc/?username=0xh7&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff1c,100:00c3ff&height=100&section=footer"/>
+</p>
