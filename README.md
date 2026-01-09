@@ -121,10 +121,11 @@
 
 <p align="center">
   <img
-    alt="Dev Quote"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00C3FF&center=true&vCenter=true&width=720&lines=0xh7+love+lua;-+0xh7"
+    alt="Dev quote"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&quote=0xh7%20love%20lua&author=-0xh7"
   />
 </p>
+
 
 
 
