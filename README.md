@@ -119,12 +119,14 @@
 
 ## 💬 Dev Quote
 
+
 <p align="center">
   <img
     alt="Dev quote"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&quote=0xh7lovelua&author=-0xh7"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&quote=0xh7%20love%20lua&author=-0xh7"
   />
 </p>
+
 
 ---
 
