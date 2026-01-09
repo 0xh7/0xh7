@@ -109,20 +109,18 @@
 
 ---
 
-##  Trophies
+## 🏆 Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      alt="GitHub trophies"
-      src="https://github-profile-trophy.vercel.app/?username=0xh7&theme=radical&no-frame=true&no-bg=true&margin-w=10"
-    />
-  </a>
+  <img
+    alt="GitHub trophies"
+    src="https://github-profile-trophy.vercel.app/?username=0xh7&theme=radical&no-frame=true&no-bg=true&margin-w=10"
+  />
 </p>
 
 ---
 
-##  Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
@@ -138,12 +136,17 @@
 ## 💬 Dev Quote
 
 <p align="center">
-  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-    <img
-      alt="Readme quote"
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false"
-    />
-  </a>
+  <img
+    alt="Dev quote"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&quote=I%20hate%20C%23"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="Dev quote"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&quote=The%20best%20programming%20language%20is%20Lua"
+  />
 </p>
 
 ---
