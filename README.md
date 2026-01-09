@@ -122,9 +122,10 @@
 <p align="center">
   <img
     alt="Dev Quote"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=4000&color=00C3FF&center=true&vCenter=true&width=420&lines=0xh7+love+lua;--+0xh7"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00C3FF&center=true&vCenter=true&width=720&lines=0xh7+love+lua;-+0xh7"
   />
 </p>
+
 
 
 
