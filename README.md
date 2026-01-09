@@ -55,14 +55,11 @@
     src="https://github-readme-stats-fast.vercel.app/api?username=0xh7&show_icons=true&theme=radical&hide_border=true"
     width="48%"
   />
-
-  <a href="https://git.io/streak-stats">
-    <img
-      alt="GitHub streak"
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=0xh7&theme=radical&hide_border=true"
-      width="48%"
-    />
-  </a>
+  <img
+    alt="GitHub streak"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=0xh7&theme=radical&hide_border=true"
+    width="48%"
+  />
 </p>
 
 <p align="center">
@@ -109,26 +106,13 @@
 
 ---
 
-## 🏆 Trophies
+##  Activity Graph
 
 <p align="center">
   <img
-    alt="GitHub trophies"
-    src="https://github-profile-trophy.vercel.app/?username=0xh7&theme=radical&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0xh7&theme=react-dark"
   />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img
-      alt="GitHub activity graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=0xh7&theme=react-dark"
-    />
-  </a>
 </p>
 
 ---
@@ -137,15 +121,8 @@
 
 <p align="center">
   <img
-    alt="Dev quote"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&quote=I%20hate%20C%23"
-  />
-</p>
-
-<p align="center">
-  <img
-    alt="Dev quote"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&quote=The%20best%20programming%20language%20is%20Lua"
+    alt="Dev Quote"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00C3FF&center=true&vCenter=true&width=720&lines=I+hate+C%23;The+best+programming+language+is+Lua"
   />
 </p>
 
